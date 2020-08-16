@@ -1,17 +1,12 @@
 # Node-Media-Server
-[![npm](https://img.shields.io/node/v/node-media-server.svg)](https://nodejs.org/en/)
-[![npm](https://img.shields.io/npm/v/node-media-server.svg)](https://npmjs.org/package/node-media-server)
-[![npm](https://img.shields.io/npm/dm/node-media-server.svg)](https://npmjs.org/package/node-media-server)
-[![npm](https://img.shields.io/npm/l/node-media-server.svg)](LICENSE) 
-[![Join the chat at https://gitter.im/Illuspas/Node-Media-Server](https://badges.gitter.im/Illuspas/Node-Media-Server.svg)](https://gitter.im/Illuspas/Node-Media-Server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 ![logo](https://www.nodemedia.cn/uploads/site_logo.png)
 
 A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH Media Server  
 [中文介绍](https://github.com/illuspas/Node-Media-Server/blob/master/README_CN.md)  
 
-**If you like this project you can support me.**  
-<a href="https://www.buymeacoffee.com/illuspas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
 
 # NMSv3
 https://github.com/NodeMedia/NodeMediaServer
